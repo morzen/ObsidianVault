@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "32fdb28bb4a9d948",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e5d5cf0278c8939",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "kali/commands/nmap/nmap -help.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08fb7230f3cd9d3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb4f8665cc7bd897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a2d433b749ea822",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "14983ef88b6fa9a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e55607c289bdbf4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ca9a9a73a44b63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "221570bbc174ce6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kali/commands/nmap/nmap -help.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0e5d5cf0278c8939",
+  "lastOpenFiles": [
+    "kali/commands/nmap/nmap -help.md",
+    "attachements/Pasted image 20210421142032.png",
+    "list of usefull softwares/Untitled.md",
+    "NTA/testing guide.md",
+    "NTA/testing javascript.md",
+    "NTA/Untitled.md",
+    "trainning/link.md",
+    "kali/networking/Kali Networking Troubleshooting.md",
+    "kali/networking/Kali Networking set static IP.md",
+    "kali/networking/Kali Networking disable IPV6.md"
+  ]
+}
